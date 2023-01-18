@@ -2,6 +2,7 @@
 import "./style.css";
 import Icon from "./icon.png";
 import printMe from "./print";
+import f from "./component.js";
 
 function component() {
   const element = document.createElement("div");
